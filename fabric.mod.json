@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "toolscroll",
+  "version": "${version}",
+
+  "name": "Tooltip Scroll",
+  "description": "Allows the tooltip GUI to be moved with the scrollwheel or Page Up/Down keys.",
+  "authors": [
+    "Provismet",
+    "turtletowerz"
+  ],
+  "contact": {
+    "homepage": "https://www.curseforge.com/minecraft/mc-mods/tooltip-scroll-fabric",
+    "sources": "https://github.com/Provismet/Tooltip-Scroll-Fabric"
+  },
+
+  "license": "MIT",
+  "icon": "assets/toolscroll/icon.png",
+
+  "environment": "client",
+  "mixins": [
+    "toolscroll.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "minecraft": ">=1.17",
+    "java": ">=16"
+  }
+}
