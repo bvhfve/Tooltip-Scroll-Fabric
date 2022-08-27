@@ -1,3 +1,7 @@
+#Note
+Release page for the (Tooltip Scroll mod for Fabric)[https://github.com/turtletowerz/Tooltip-Scroll-Fabric]. I do not own, create or modify the code of this mod. 
+This is just the unofficial release page, where I compile and publish versions that people may want and should have been released.
+
 # Tooltip Scroll
 Allows item tooltips to be moved via the scrollwheel.
 
